@@ -17,6 +17,7 @@ class Arrays : AppCompatActivity() {
             println("arr Index $i")
         }
 
+
         for ((i,e) in arr.withIndex()){
             println("index with value:- $i , $e")
         }
